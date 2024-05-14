@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cn8a6q8pip5h8"]
+
+[ext_resource type="PackedScene" uid="uid://jvvcerem4pui" path="res://assets/prefabs/prefab_tablet 28.blend" id="1_hbjgm"]
+
+[node name="prefab_tablet 28" instance=ExtResource("1_hbjgm")]

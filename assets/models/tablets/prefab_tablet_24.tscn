@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dvfx6qtm35ebs"]
+
+[ext_resource type="PackedScene" uid="uid://bet7b6yugfy17" path="res://assets/prefabs/prefab_tablet 24.blend" id="1_cb72j"]
+
+[node name="prefab_tablet 24" instance=ExtResource("1_cb72j")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0, 0)
